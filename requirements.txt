@@ -1,0 +1,3 @@
+# Streamlit akan dipasang ke virtual environment proyek.
+# Pip akan memilih versi yang kompatibel dengan Python yang digunakan.
+streamlit>=1.40.0
